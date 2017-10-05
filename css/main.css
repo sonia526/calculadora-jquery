@@ -82,4 +82,14 @@ html,body,section{
 	font-family:'khula', sans-serif;
 	background-color: skyblue;
 }
+/*.letra{
+    margin-top:  100px;
+}
+*/
+.formualario-borde{
+	margin-top: 20px;
+	width: 50%;
+	padding-top:  50px;
+	padding-bottom: 50px;
+}
 
